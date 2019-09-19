@@ -1,0 +1,27 @@
+{ 
+   "name":"@omostan/angularjs-custom-material-dialog",
+   "version":"1.1.0",
+   "description":"AngulaJS material dialog customised for use in my projects.",
+   "author":"Stanley Omoregie",
+   "repository":{ 
+      "type":"git",
+      "url":"https://github.com/omostan/angularjs-custom-material-dialog.git"
+   },
+   "homepage":"https://github.com/omostan/angularjs-custom-material-dialog",
+   "main": "angularjs-custom-material-dialog.min.js",
+   "keywords":[ 
+      "angular",
+      "angularjs",
+      "angular-js",
+      "dialog",
+      "material",
+      "modal",
+      "popup",
+      "confirm",
+      "alert"
+   ],
+   "license":"MIT",
+   "peerDependencies":{ 
+      "angular":"^1.5.0"
+   }
+}
